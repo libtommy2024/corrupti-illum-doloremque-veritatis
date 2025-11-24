@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/corrupti-illum-doloremque-veritatis",
-  "version": "13.45.509",
+  "version": "13.46.509",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -159,5 +159,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/corrupti-illum-doloremque-veritatis/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
